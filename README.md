@@ -1,3 +1,3 @@
-#This is a preview of the GitHub Pages Functionality
+# This is a preview of the GitHub Pages Functionality
 
 **Veni Vidi Vici**
